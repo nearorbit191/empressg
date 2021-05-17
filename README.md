@@ -1,3 +1,9 @@
+Primeros intentos de crear un juego. Aún empezando.
+
+
+
+
+
 # Welcome to Defold
 
 This project was created from the "empty" project template.
